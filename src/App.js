@@ -1,6 +1,6 @@
 import {Route, Switch} from 'react-router-dom'
 
-import LoginFrom from './components/LoginForm'
+import LoginForm from './components/LoginForm'
 import Home from './components/Home'
 import NotFound from './components/NotFound'
 
